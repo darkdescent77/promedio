@@ -1,5 +1,6 @@
 // function para realizar la suma de las notas 
 function sumaNotas(n1, n2, n3, n4, n5, n6){
+    console.log("las notas son : ", n1, n2, n3, n4, n5, n6)
     return n1 + n2 + n3 + n4 + n5 + n6
 }
 
